@@ -28,3 +28,15 @@ Welcome to the Company Name repository! We are excited to have you on board for 
 - Studied the Bootstrap library.
 - Explored CSS animations.
 - Learned how to load JSON data into a CSS template.
+
+# Week-3 To-Do List
+
+This project is a simple To-Do List application implemented using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
+
+## Features
+
+ - Add Tasks*: Enter a task and press 'Enter' or click 'Add' to add it to the list.
+ - Remove Tasks*: Click on the task to remove it from the list.
+ - Mark Completed*: Click on the checkbox to mark a task as completed.
+ - Local Storage*: Tasks are stored in the browser's local storage for persistence.
+
