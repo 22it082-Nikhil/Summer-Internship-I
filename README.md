@@ -2,9 +2,8 @@
 
 Welcome to the Company Name repository! We are excited to have you on board for our internship program. This README file will guide you through the tasks and resources provided during your internship.
 
-## Internship Plan
-
-### Week 1: Introduction and First Task
+# Internship Plan
+# Week 1: Introduction and First Task
 
 **Objective:** Get familiar with HTML, CSS, and JavaScript.
 
