@@ -27,6 +27,9 @@
 - Explored CSS animations.
 - Learned how to load JSON data into a CSS template.
   
+## Screenshot:-
+  <img width="459" alt="Screenshot 2024-07-09 at 7 56 02 PM" src="https://github.com/user-attachments/assets/b8bf50f2-aa9a-42bc-9c08-30fa7a4571d2">
+
 
 # Week-3 To-Do List (27-May-2024 to 31-May-2024)
 
@@ -37,7 +40,9 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
  - Add Tasks*: Enter a task and press 'Enter' or click 'Add' to add it to the list.
  - Remove Tasks*: Click on the task to remove it from the list.
  - Mark Completed*: Click on the checkbox to mark a task as completed.
- - Local Storage*: Tasks are stored in the browser's local storage for persistence.
+ - Local Storage*: Tasks are stored in the browser's local storage for persistence.'
+
+
 
 # Week 4 - Fetching location in Website and Discussion of job Opportunities (03-June-2024 to 07-June-2024)
 
