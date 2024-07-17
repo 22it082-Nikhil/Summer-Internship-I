@@ -42,6 +42,8 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
  - Mark Completed*: Click on the checkbox to mark a task as completed.
  - Local Storage*: Tasks are stored in the browser's local storage for persistence.'
 
+## Screenshot:-
+<img width="459" alt="Screenshot 2024-07-09 at 8 06 58 PM" src="https://github.com/user-attachments/assets/493d2ad9-5e07-4b2b-99d4-87cbab794305">
 
 
 # Week 4 - Fetching location in Website and Discussion of job Opportunities (03-June-2024 to 07-June-2024)
@@ -51,4 +53,5 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 - Enhanced UI with better styling and user experience improvements.
 - Participated in a session to discuss job opportunities.
 
-
+## Screenshot:-
+<img width="459" alt="Screenshot 2024-07-10 at 10 15 59 PM" src="https://github.com/user-attachments/assets/79944cc9-8ce6-4654-8005-6f8dc9ac6d7d">
