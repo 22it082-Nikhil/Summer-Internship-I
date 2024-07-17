@@ -16,6 +16,8 @@
    - **JavaScript Event Listeners:**
      - Attach event listeners to HTML buttons.
      - Implement JavaScript functions to handle button click events and perform specified actions.
+## Screenshot:-
+   <img width="459" alt="image" src="https://github.com/user-attachments/assets/d405d755-a788-4c6b-bc83-98b2839bf48e">
 
 # Week 2 - Second Task (20-May-2024 to 24-May-2024)
 
@@ -24,6 +26,7 @@
 - Studied the Bootstrap library.
 - Explored CSS animations.
 - Learned how to load JSON data into a CSS template.
+  
 
 # Week-3 To-Do List (27-May-2024 to 31-May-2024)
 
