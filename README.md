@@ -40,3 +40,11 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
  - Mark Completed*: Click on the checkbox to mark a task as completed.
  - Local Storage*: Tasks are stored in the browser's local storage for persistence.
 
+# Week 3 - Fetching location in Website and Discussion of job Opportunities
+
+## Accomplishments:
+- Gained an understanding of the project scope and key functionalities.
+- Enhanced UI with better styling and user experience improvements.
+- Participated in a session to discuss job opportunities.
+
+
