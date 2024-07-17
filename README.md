@@ -22,9 +22,10 @@ Welcome to the Company Name repository! We are excited to have you on board for 
      - Attach event listeners to HTML buttons.
      - Implement JavaScript functions to handle button click events and perform specified actions.
 
-### How to Get Started
+# Week 2 - Second Task
 
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/yourusername/company-internship.git
+## Accomplishments:
+- Learned different types of sections in a web page.
+- Studied the Bootstrap library.
+- Explored CSS animations.
+- Learned how to load JSON data into a CSS template.
