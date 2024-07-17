@@ -1,9 +1,5 @@
-# Company Name
-
-Welcome to the Company Name repository! We are excited to have you on board for our internship program. This README file will guide you through the tasks and resources provided during your internship.
-
-# Internship Plan
-# Week 1: Introduction and First Task
+# Summer Internship In Shaury Infotech
+# Week 1: Introduction and First Task (13-May-2024 to 17-May-2024)
 
 **Objective:** Get familiar with HTML, CSS, and JavaScript.
 
@@ -21,7 +17,7 @@ Welcome to the Company Name repository! We are excited to have you on board for 
      - Attach event listeners to HTML buttons.
      - Implement JavaScript functions to handle button click events and perform specified actions.
 
-# Week 2 - Second Task
+# Week 2 - Second Task (20-May-2024 to 24-May-2024)
 
 ## Accomplishments:
 - Learned different types of sections in a web page.
@@ -29,7 +25,7 @@ Welcome to the Company Name repository! We are excited to have you on board for 
 - Explored CSS animations.
 - Learned how to load JSON data into a CSS template.
 
-# Week-3 To-Do List
+# Week-3 To-Do List (27-May-2024 to 31-May-2024)
 
 This project is a simple To-Do List application implemented using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
 
@@ -40,7 +36,7 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
  - Mark Completed*: Click on the checkbox to mark a task as completed.
  - Local Storage*: Tasks are stored in the browser's local storage for persistence.
 
-# Week 3 - Fetching location in Website and Discussion of job Opportunities
+# Week 4 - Fetching location in Website and Discussion of job Opportunities (03-June-2024 to 07-June-2024)
 
 ## Accomplishments:
 - Gained an understanding of the project scope and key functionalities.
